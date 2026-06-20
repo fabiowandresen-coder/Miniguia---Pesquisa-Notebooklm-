@@ -9,7 +9,8 @@ focando em como proteger seu patrimônio em várias situações financeiras para
 ## 🛠️ Tecnologias Utilizadas
 - [NotebookLM](https://notebooklm.google.com/)
 - IA Generativa
-- Google Docs (formatação e consolidação dos dados)
+- [Google Docs](https://docs.google.com/document/u/0/?hl=pt-BR)
+- Editor de texto para consolidar os dados da pesquisa e formatar em pdf.
 
 ## 📚 Aprendizados
 - O uso do modelo de IA para pesquisas e estudos e como fazer isso da forma mais eficiente, explorando o chat ou seu estúdio, onde vc pode transformar o treinamento da IA no assunto que você escolheu em vídeo, áudio, slides, resumos, mapas mentais para estudos, etc.
