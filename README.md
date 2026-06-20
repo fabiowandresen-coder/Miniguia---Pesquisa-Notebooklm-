@@ -32,7 +32,7 @@ focando em como proteger seu patrimônio em várias situações financeiras para
 - NotebookLM, preciso que você crie agora um resumo completo de todo o conteúdo que lhe passei. A linguagem é didática e clara, assim qualquer pessoa que leia entenderá os conceitos. Se possível, criar exemplos práticos de situações relacionadas ao dia a dia do brasileiro nesse tema e as formas de resolução do problema. Estruture tudo em capítulos de forma visual agradável para o leitor já que esse texto será salvo em pdf futuramente. Para finalizar gere um glossário com todas as expressões financeiras utilizadas. Obrigado.
   
 &nbsp; &nbsp; O próximo passo foi pegar as perguntas que eu tinha feito para testar a pesquisa e as fontes e solicitar que fossem feitas e ordenadas com a resposta num único bloco para eu consolidar com o resumo e o glossário no Google Docs em pdf. O prompt usado foi o seguinte:
-- "NotebookLM, preciso que você me dê respostas às seguintes perguntas de forma que cada resposta fique abaixo de cada pergunta:
+- NotebookLM, preciso que você me dê respostas às seguintes perguntas de forma que cada resposta fique abaixo de cada pergunta:
 Preciso que você se comporte como um especialista em proteção financeira usando os dados que lhe forneci. Quero que você me dê uma breve introdução, explicando os termos técnicos financeiros básicos para eu proteger meu patrimônio que sirva para todas as faixas de renda do Brasil, seguindo a legislação brasileira. Preciso também que seja uma breve sinopse em um parágrafo com no máximo dez sentenças e que as instruções sejam acessíveis, claras e simples. Você pode fazer isso para mim? Obrigado.
 
 
