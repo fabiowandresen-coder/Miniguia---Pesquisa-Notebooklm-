@@ -41,3 +41,7 @@ No caso de doação de bens com reserva de usufruto, se o meu beneficiário fale
 
 
 ao fazer uma sociedade com um amigo, qual a primeira providência de proteção patrimonial que devo tomar para me proteger de qualquer erro ou endividamento causado por ele?"
+
+&nbsp; &nbsp;Em seguida salvei a resposta como nota no NotebookLM como fiz com o resumo, colei o conteúdo dos dois no Google Docs, fiz as correções de espaçamento, título para consolidar os conteúdos e converti em pdf para adicionar ao trabalho final. Com o desafio aprendi várias possibilidades de pesquisa e estudo usando esse modelo de IA. Como iniciante na área tecnológica de IA, foi um exercício bem válido para começar a me aquecer para fazer projetos para portfolio na área. 
+&nbsp; &nbsp;Para aprender a formatar usando markdown e tirar dúvidas sobre qual a melhor forma de entregar o projeto, usei pesquisas rápidas no google também.
+
